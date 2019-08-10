@@ -29,3 +29,20 @@
     line-height: 1.8em;
     font-family: 'Raleway', sans-serif;
 }
+.rendered_html table {
+  margin: auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.rendered_html table th {
+  font-weight: bold;
+}
+
+.rendered_html table th,
+.rendered_html table td {
+  text-align: left;
+  padding: 0.2em 0.5em 0.2em 0.5em;
+  border-bottom: 1px solid;
+  font-size: 28px;
+}
