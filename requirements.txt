@@ -59,7 +59,7 @@ pexpect==4.7.0 ; sys_platform != 'win32'
 pickleshare==0.7.5
 prometheus-client==0.7.1
 prompt-toolkit==2.0.9
-protobuf==3.9.1
+protobuf==3.15.0
 ptyprocess==0.6.0 ; os_name != 'nt'
 pygments==2.4.2
 pyparsing==2.4.2
